@@ -1,0 +1,42 @@
+{
+  "name": "KinoPub для iPhone Duo",
+  "identifier": "io.github.mailserov-art.kinopub-builds",
+  "subtitle": "Сборки KinoPub, оптимизированные под iPhone Duo",
+  "description": "Неофициальные сборки клиента KinoPub. Оптимизированы под iPhone Duo и тестировались только на нём.",
+  "iconURL": "https://raw.githubusercontent.com/mailserov-art/kinopub-builds/main/icon.png",
+  "website": "https://github.com/mailserov-art/kinopub-builds",
+  "tintColor": "#2BB5A4",
+  "apps": [
+    {
+      "name": "KinoPub",
+      "bundleIdentifier": "app.kinopub.personal",
+      "developerName": "mailserov-art",
+      "subtitle": "Кино и сериалы с kino.pub — под iPhone Duo",
+      "localizedDescription": "Неофициальный клиент KinoPub для iPhone в стиле Apple TV: обложки во весь экран, трейлеры на главной, карточки фильмов с кадром на фоне.\n\n⚠️ Полностью оптимизирован под iPhone Duo и тестировался только на нём. На других iPhone может работать, но не проверялся.\n\nНужна подписка kino.pub: вход по коду на kino.pub/device.",
+      "iconURL": "https://raw.githubusercontent.com/mailserov-art/kinopub-builds/main/icon.png",
+      "tintColor": "#2BB5A4",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.5.1",
+          "buildVersion": "15",
+          "date": "2026-11-14",
+          "localizedDescription": "Исправлена тёмная полоса на странице фильма при прокрутке. Страна в описании на главной. Трейлеры без чёрных полос.",
+          "downloadURL": "https://raw.githubusercontent.com/mailserov-art/kinopub-builds/main/builds/KinoPub-1.5.1-15.ipa",
+          "size": 18858381,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "version": "1.5.1",
+      "versionDate": "2026-11-14",
+      "versionDescription": "Исправлена тёмная полоса на странице фильма при прокрутке. Страна в описании на главной. Трейлеры без чёрных полос.",
+      "downloadURL": "https://raw.githubusercontent.com/mailserov-art/kinopub-builds/main/builds/KinoPub-1.5.1-15.ipa",
+      "size": 18858381,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
